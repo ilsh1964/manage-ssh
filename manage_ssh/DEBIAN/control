@@ -1,4 +1,4 @@
-Package: manage_ssh
+Package: manage-ssh
 Version: 1.0
 Architecture: all
 Essential: no

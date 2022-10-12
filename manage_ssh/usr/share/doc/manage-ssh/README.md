@@ -1,4 +1,4 @@
-# manage_ssh
+# manage-ssh
 
 Ease the process of manipulating SSH keys:
 - Generate a new private and public RSA keys
