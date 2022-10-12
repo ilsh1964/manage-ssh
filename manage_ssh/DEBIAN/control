@@ -1,0 +1,8 @@
+Package: manage_ssh
+Version: 1.0
+Architecture: all
+Essential: no
+Priority: optional
+Depends:
+Maintainer: ilan.shavit@gmail.com
+Description: Ease the process of manipulating SSH keys
